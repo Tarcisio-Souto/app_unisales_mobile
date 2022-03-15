@@ -75,7 +75,7 @@ class _LoginFormState extends State<LoginForm> {
                         decoration: InputDecoration(
                           hintStyle: TextStyle(fontSize: 22),
                           border: InputBorder.none,
-                          icon: Icon(Icons.account_circle_rounded),
+                          icon: Icon(Icons.key),
                           hintText: "Senha",
                         ),
                       ),
