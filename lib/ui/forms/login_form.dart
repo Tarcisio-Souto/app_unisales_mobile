@@ -20,16 +20,16 @@ class _LoginFormState extends State<LoginForm> {
           left: MediaQuery.of(context).size.width * 0.09),
           child: Image.asset("assets/images/logo.png"),
         ),
-        /*Container(
+        Container(
           margin: const EdgeInsets.only(bottom: 60),
           child: const Text(
-            "Login",
+            "Locação de Recursos Institucionais",
             style: TextStyle(
-              fontSize: 35,
+              fontSize: 16,
               fontWeight: FontWeight.bold,
             ),
           ),
-        ),*/
+        ),
         SizedBox(
           height: 150,
           child: Stack(
